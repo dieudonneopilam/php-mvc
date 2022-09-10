@@ -6,3 +6,5 @@ use Acme\User;
 echo rand_numer();
 
 (new Song);
+
+(new Song);
