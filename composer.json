@@ -1,0 +1,13 @@
+{
+    "autoload":{
+        "files":[
+            "controllers/hello.php"
+        ],
+        "classmap":[
+            "./Song.php"
+        ],
+        "psr-4":{
+            "Acme\\":"controllers"
+        }
+    }
+}
